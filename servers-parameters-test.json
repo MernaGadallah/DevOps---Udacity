@@ -1,0 +1,22 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProject2"
+	},
+	{
+		"ParameterKey": "AMIversion",
+		"ParameterValue": "ami-04bad3c587fe60d89"
+	},
+	{
+		"ParameterKey": "Insversion",
+		"ParameterValue": "t3.small"
+	},
+	{
+		"ParameterKey": "scaleMin",
+		"ParameterValue": "4"
+	},
+	{
+		"ParameterKey": "scaleMax",
+		"ParameterValue": "8"
+	}
+]
